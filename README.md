@@ -1,73 +1,90 @@
-# Discord sunucusu tekrardan açıldı: Yeni [Discord](https://discord.com/invite/laze)
+# 🔶 Laze 2.0 yayında (05/25/2024)!
+# 🔷 [`Discord`](https://discord.gg/laze) sunucumuza katılmayı unutmayın.
+# ✔ [`Tıkla`](https://github.com/aaleaf/Laze/releases/tag/Laze) indir.
 
-# [Laze v2](https://github.com/aaleaf/Laze-v2/releases/tag/Laze) | 07.07.2023 | [Discord](https://discord.com/invite/laze)
-## Combat
+### Combat
 
-🔰 Aimbot [Hedeflere otomatik nişan alır]
+* Aimbot
+`Hedeflere otomatik nişan alır`
 
-🔰 Left Clicker [Sol tıklama makrosu]
+* Left Clicker
+`Sol tıklama makrosu`
 
-🔰 Right Clicker [Sağ tıklama makrosu]
+* Right Clicker
+`Sağ tıklama makrosu`
 
-🔰 Auto Rod [Olta makrosu, otomatik olta kullanır]
+* Auto Rod
+`Olta makrosu, otomatik olta kullanır`
 
-## Render
+### Render
 
-🔰 Player ESP [Oyuncuları çizimle belirtir]
+* Player ESP
+`Oyuncuları çizimle belirtir`
 
-🔰 Chest ESP [Sandıkları çizimle belirtir]
+* Chest ESP
+`Sandıkları çizimle belirtir`
 
-🔰 Animal ESP [Hayvanları çizimle belirtir]
+* Animal ESP
+`Hayvanları çizimle belirtir`
 
-🔰 Item ESP [Yerdeki eşyaları çizimle belirtir]
+* Item ESP
+`Yerdeki eşyaları çizimle belirtir`
 
-🔰 Mob ESP [Yaratıkları çizimle belirtir]
+* Mob ESP
+`Yaratıkları çizimle belirtir`
 
-🔰 Tracers [Oyuncuları çizgi ile belirtir]
+* Tracers
+`Oyuncuları çizgi ile belirtir`
 
-🔰 China Hat [Oyunculara şapka çizer]
+* China Hat
+`Oyunculara şapka çizer`
 
-🔰 Item Animation [Elinizde tuttuğunuz eşyanın boyutunu ve yüksekliğini değiştirmenizi sağlar]
+* Item Animation
+`Elinizde tuttuğunuz eşyanın boyutunu ve yüksekliğini değiştirmenizi sağlar`
 
-🔰 Player Scaler [Oyuncuların boyutunu değiştirmenizi sağlar, sadece sizde gözükür]
+* Player Scaler
+`Oyuncuların boyutunu değiştirmenizi sağlar, sadece sizde gözükür`
 
-🔰 Nametags [İsim etiketlerini büyütür]
+* Nametags
+`İsim etiketlerini büyütür`
 
-🔰 Chams (Wallhack) [Oyuncuları duvar arkasında bile olsa gösterir]
+* Chams (Wallhack)
+`Oyuncuları duvar arkasından görmenizi sağlar`
 
-## Misc
+### Misc
 
-🔰 Blink [Sunucuya gönderdiğiniz verileri sınırlar, bu sayede görünmez şekilde hareket edebilirsiniz]
+* Blink
+`Sunucuya gönderdiğiniz verileri sınırlar, bu sayede görünmez şekilde hareket edebilirsiniz`
 
-## Settings
+* Antibot
+`Hile korumalarının oluşturduğu sahte oyuncuları kaldırır`
 
-🔰 HUD [Hile için bir arayüz oluşturur, tema rengini değiştirebilirsiniz]
+### Settings
 
-🔰 Discord RPC [Discord oyun durumunuzu "Laze oynuyor" olarak gösterir]
+* HUD
+`Hile için bir arayüz oluşturur, tema rengini özelleştirebilirsiniz`
 
-## Config Manager
+* Discord RPC
+`Discord oyun aktivitenizi "Laze oynuyor" şeklinde günceller`
 
-🔰 Config [Laze için ayar dosyaları oluşturmaya, paylaşmaya ve yüklemeye olanak sağlar]
+### Config Manager
 
-## Kurulum
-
-💠 Laze'i [indirin](https://github.com/aaleaf/Laze-v2/releases/download/Laze/Laze.Loader.exe) ve çalıştırın.
-
-💠 Çalıştırdıktan sonra belirtilen lisans kodunuzu kopyalayın ve [Discord](https://discord.gg/laze) sunucumuza gelip doğrulayın.
-
-⚠️ Laze'in çalışması için [VCRedist x64](https://aka.ms/vs/17/release/vc_redist.x64.exe) bilgisayarınızda yüklü olması gerekir. ⚠️
-
-⚠️ Sadece x64 bit işletim sistemleri desteklenmektedir. ⚠️
+* Config
+`Laze için ayar dosyaları oluşturmanıza, paylaşmanıza ve yüklemenize olanak sağlar`
 
 ## Ekran Görüntüleri
-![javaw_5GaJvk1qJf](https://user-images.githubusercontent.com/45121448/236621760-9ef6b2a3-9402-41f9-b646-3aba4fe4f89d.png)
+![javaw_G5ScPBM2mS](https://github.com/aaleaf/Laze/assets/45121448/819ddaf5-1fe8-4a91-9589-77f4685ac3eb)
 
-![javaw_hlxQpi9F19](https://user-images.githubusercontent.com/45121448/236621765-f105d090-6b4b-4e6d-b3d2-b2472b1d61de.png)
+![javaw_3JR21uOR4u](https://github.com/aaleaf/Laze/assets/45121448/3cb5f73b-c967-49c0-9921-3dc83663f584)
 
-![javaw_MmoRL4BXyO](https://user-images.githubusercontent.com/45121448/236621766-e59ac573-7c5f-4869-83e6-85326b109f2e.png)
+![javaw_Kmy98pubHM](https://github.com/aaleaf/Laze/assets/45121448/a36aeef8-791c-4da7-aa1a-77c92b1b4e8a)
 
-![javaw_zh6eu7IGUu](https://user-images.githubusercontent.com/45121448/236621768-38614743-5b53-4ce5-a233-764afb056144.png)
+![javaw_BmmJaqo8pX](https://github.com/aaleaf/Laze/assets/45121448/2d3a0d5d-921f-4119-abe5-c44c402a2c43)
 
-![javaw_KXCFUwucu6](https://user-images.githubusercontent.com/45121448/236621770-3b6860f4-779b-4f73-be6a-dda4dde6d0ad.png)
+![javaw_C2cl6BHspU](https://github.com/aaleaf/Laze/assets/45121448/75b900a9-069f-457f-b83d-6e40d122873f)
 
-![image](https://user-images.githubusercontent.com/45121448/236621787-5c6232fa-358f-40b5-a2df-bfe328d6b701.png)
+> [!WARNING]
+> Laze'in çalışması için [`VC_Redist`](https://aka.ms/vs/17/release/vc_redist.x64.exe) bilgisayarınızda kurulu olması gerekiyor.
+
+> [!NOTE]
+> Sadece 64 bit Windows sürümleri desteklenmektedir.
